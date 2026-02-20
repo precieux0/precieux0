@@ -110,9 +110,6 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=precieux0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
@@ -137,7 +134,7 @@
 </p>
 
 <div align="center">
-  <b>📱 Newsletter ID:</b> <code>120363422932202026@newsletter</code>
+  <b>📱 NUM :</b> <code>24/24 ONLINE</code>
 </div>
 
 <br>
